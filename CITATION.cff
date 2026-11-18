@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the original datasets and this repository."
+title: "Retinal Vessel Feature Stability"
+authors:
+  - family-names: Bathala
+    given-names: Vinay Kartheek
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
